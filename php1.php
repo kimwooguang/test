@@ -1,0 +1,3 @@
+<?phph
+
+phpinfo();
