@@ -1,5 +1,0 @@
-<?phph
-
-phpinfo();
-
-guang
